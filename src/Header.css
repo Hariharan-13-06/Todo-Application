@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: aquamarine;
+}
+
+.header_logo {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
